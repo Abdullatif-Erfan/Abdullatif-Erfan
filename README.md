@@ -1,8 +1,8 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+[![MasterHead](https://portfolio-abdullatif-erfan.vercel.app/assets/img/github-bg.gif)](https://portfolio-abdullatif-erfan.vercel.app/assets/img/github-bg.gif)
 
 <h1 align="center">Hi 👋, I'm Abdul Latif</h1>
 <h3 align="center">A passionate frontend/full-stack developer from Afghanistan</h3>
-<img alt="Coding" align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img alt="Coding" align="right" width="400" src="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=FTU_isQ6VYfV5D_ueFHPWvT8ZqgDeJG3yr8Mi8lpfk0">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullatif-erfan&label=Profile%20views&color=0e75b6&style=flat" alt="abdullatif-erfan" /> </p>
 
